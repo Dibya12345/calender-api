@@ -31,8 +31,8 @@ SCOPES = [
           'https://www.googleapis.com/auth/userinfo.profile',
        
         ]
-API_SERVICE_NAME = 'calender'
-API_VERSION = 'v1'
+API_SERVICE_NAME = 'calendar'
+API_VERSION = 'v3'
 
 # This variable specifies the redirect URI for installed apps that are
 # using the OAuth 2.0 protocol. If you are building a web application,

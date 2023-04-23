@@ -10,6 +10,7 @@
 <p align="center">
   <a href="#dart-about">About</a> &#xa0; | &#xa0; 
   <a href="#sparkles-features">Features</a> &#xa0; | &#xa0;
+  <a href="#demo">Demo</a> &#xa0; | &#xa0;
   <a href="#rocket-technologies">Technologies</a> &#xa0; | &#xa0;
   <a href="#white_check_mark-requirements">Requirements</a> &#xa0; | &#xa0;
   <a href="#checkered_flag-starting">Starting</a> &#xa0; | &#xa0;
@@ -36,6 +37,10 @@ his/her credentials
    code
 2. Once got the access_token get list of events in users calendar
 
+### Demo
+
+Here is the demo of the assignment [Demo](https://www.loom.com/share/88f5958310cd44e9bc5c97567eb1713c)
+
 ## :rocket: Technologies
 
 The following tools were used in this project:
@@ -49,8 +54,7 @@ The following tools were used in this project:
 Before starting :checkered_flag:, you need to have [Python](https://www.python.org/) installed.
 Create an virtual environment and activate it.
 
-Create an account in google cloud console and create a project. Enable google calendar api and create credentials. Download the credentials and rename it to client_secret.json and place it in the main folder.  
-
+Create an account in google cloud console and create a project. Enable google calendar api and create credentials. Download the credentials and rename it to client_secret.json and place it in the main folder.
 
 ## :checkered_flag: Starting
 
