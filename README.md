@@ -40,6 +40,7 @@ his/her credentials
 ### Demo
 
 Here is the demo of the assignment [Demo](https://www.loom.com/share/88f5958310cd44e9bc5c97567eb1713c)
+Here is the replit link [Replit](https://replit.com/@dibyadash1/covin-assignment)
 
 ## :rocket: Technologies
 
