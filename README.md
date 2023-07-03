@@ -1,4 +1,4 @@
-<h1 align="center">covin assignment</h1>
+<h1 align="center">calender app</h1>
 
 <p align="center">
   <img alt="Github top language" src="https://img.shields.io/github/languages/top/Dibya12345/covin-assignment?color=56BEB8">
